@@ -1,5 +1,5 @@
 # GLUE-Dataset
-GLUE dataset (took from https://github.com/huggingface)
+Personnal repository to easy use GLUE dataset (took from https://github.com/huggingface)
 
 ## Datasets Description
 
