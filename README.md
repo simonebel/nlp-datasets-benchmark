@@ -10,9 +10,9 @@ Personnal repository that centralized various NLP datasets use for research.
 
 ## How use this repository ? 
 
-You can clone this repository and add the submodule linked to it by using the following command
+You can clone this repository and add the submodule linked to it by using the following command : 
 
-```console
+```bash
 git clone --recurse-submodules https://github.com/simonebel/nlp-datasets-benchmark.git
 ```
 
