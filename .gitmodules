@@ -1,3 +1,9 @@
 [submodule "GLUE/GLUE-baselines"]
 	path = GLUE/GLUE-baselines
 	url = https://github.com/nyu-mll/GLUE-baselines.git
+[submodule "wmt_fr_en14/mosesdecoder"]
+	path = wmt_fr_en14/mosesdecoder
+	url = https://github.com/moses-smt/mosesdecoder.git
+[submodule "wmt_fr_en14/subword-nmt"]
+	path = wmt_fr_en14/subword-nmt
+	url = https://github.com/rsennrich/subword-nmt.git
