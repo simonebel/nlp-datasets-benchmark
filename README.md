@@ -1,7 +1,7 @@
-# GLUE-Dataset
-Personnal repository to easy use GLUE dataset (took from https://github.com/huggingface)
+# NLP Datasets Benchmark
+Personnal repository that centralized various NLP datasets
 
-## Datasets Description
+## Datasets Description (took from https://github.com/huggingface)
 
 |Dataset|Description|
 |:---------|-------------|
