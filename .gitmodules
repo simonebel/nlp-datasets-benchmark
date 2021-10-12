@@ -1,0 +1,3 @@
+[submodule "GLUE/GLUE-baselines"]
+	path = GLUE/GLUE-baselines
+	url = https://github.com/nyu-mll/GLUE-baselines.git
