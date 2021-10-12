@@ -1,5 +1,5 @@
 # NLP Datasets Benchmark
-Personnal repository that centralized various NLP datasets use for research.
+Personnal repository that centralized various NLP datasets used for research.
 
 ## Datasets Description
 
@@ -15,6 +15,8 @@ You can clone this repository and add the submodule linked to it by using the fo
 ```bash
 git clone --recurse-submodules https://github.com/simonebel/nlp-datasets-benchmark.git
 ```
+
+then you can find in each folder specific instructions to download the datasets.
 
 ## TODO
 - [Squad](https://rajpurkar.github.io/SQuAD-explorer/) 
